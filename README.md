@@ -1,10 +1,6 @@
 # Hi, I'm David! ✌️
 
-
-In my projects I put a lot of focus towards visual experience, along with functionality of course
-# 
-> _Creating a website is one thing, making it look good is a totally different story_ - me
-# 
+Striving for greatness, one website at a time.
 
 ### A bit about me 👨‍💻
 __I'm a developer from Poland, mainly focusing on front-end web development__

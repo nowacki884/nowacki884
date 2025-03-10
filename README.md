@@ -8,6 +8,6 @@ I'm actively learning and practicing coding concepts, to get a very good underst
 
 ## My specialities
 - ReactJS
-- JavaScript (TypeScript)
+- TypeScript
 - HTML
 - CSS
